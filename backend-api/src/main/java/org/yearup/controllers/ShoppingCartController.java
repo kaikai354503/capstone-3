@@ -33,6 +33,7 @@ public class ShoppingCartController
             int userId = user.getId();
 
             // use the shoppingcartDao to get all items in the cart and return the cart
+
             return null;
         }
         catch(Exception e)
@@ -43,6 +44,15 @@ public class ShoppingCartController
 
     // add a POST method to add a product to the cart - the url should be
     // https://localhost:8080/cart/products/15 (15 is the productId to be added
+    public ShoppingCart post(Principal principal)
+    {
+        try{
+
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
+        return null;
+    }
 
 
     // add a PUT method to update an existing product in the cart - the url should be
