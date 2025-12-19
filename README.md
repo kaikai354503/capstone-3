@@ -1,6 +1,6 @@
-# Capstone 3 – EasyShop (Dscription)
+# Capstone 3 – EasyShop (Description)
 
-ShopEngine is a robust, production-ready RESTful API. Built on the industry-standard Spring Boot framework, ShopEngine provides a secure, scalable backend architecture that bridges the gap between complex database management and seamless user experiences.
+EasyShop is a robust, production-ready RESTful API. Built on the industry-standard Spring Boot framework, ShopEngine provides a secure, scalable backend architecture that bridges the gap between complex database management and seamless user experiences.
 
 ---
 
@@ -51,7 +51,7 @@ ShopEngine is a robust, production-ready RESTful API. Built on the industry-stan
 ## Future features
 
 1. Creat, add, and delete users.
-2. Add and remove items in shoppingcart.
+2. Add and remove items in Shoppingcart.
 3. Create a Wishlist.
-4. add and remove items in wishlist.
+4. add and remove items in Wishlist.
 5. Check out.
