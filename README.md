@@ -1,6 +1,6 @@
 # Capstone 3 – EasyShop (Description)
 
-EasyShop is a robust, production-ready RESTful API. Built on the industry-standard Spring Boot framework, ShopEngine provides a secure, scalable backend architecture that bridges the gap between complex database management and seamless user experiences.
+RecordShop is a robust, production-ready RESTful API. Built on the industry-standard Spring Boot framework, ShopEngine provides a secure, scalable backend architecture that bridges the gap between complex database management and seamless user experiences.
 
 ---
 
